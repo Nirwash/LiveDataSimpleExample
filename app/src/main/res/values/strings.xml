@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiveDataSimpleExample</string>
+    <string name="refresh">Refresh</string>
+</resources>
